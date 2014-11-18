@@ -7,7 +7,6 @@
     <projectUrl>https://github.com/halcharger/NExtensions.Testing</projectUrl>
 	  <iconUrl>https://raw.githubusercontent.com/halcharger/NExtensions/master/NExtensions/NExtensions.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
 	<summary>Simple assertion extensions to aid in testing, stuff that should have been in the BCL but aren't.</summary>
     <copyright>Copyright 2014</copyright>
   </metadata>
