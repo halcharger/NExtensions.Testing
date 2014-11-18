@@ -1,13 +1,15 @@
 ﻿<?xml version="1.0"?>
 <package >
-  <metadata>
-    <id>$id$</id>
-    <version>$version$</version>
-    <title>$title$</title>
-    <projectUrl>https://github.com/halcharger/NExtensions.Testing</projectUrl>
-	  <iconUrl>https://raw.githubusercontent.com/halcharger/NExtensions/master/NExtensions/NExtensions.png</iconUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
-	<summary>Simple assertion extensions to aid in testing, stuff that should have been in the BCL but aren't.</summary>
-    <copyright>Copyright 2014</copyright>
-  </metadata>
+	<metadata>
+		<id>$id$</id>
+		<version>$version$</version>
+		<title>$title$</title>
+		<authors>Adaptive Systems</authors>
+		<projectUrl>https://github.com/halcharger/NExtensions.Testing</projectUrl>
+		<iconUrl>https://raw.githubusercontent.com/halcharger/NExtensions/master/NExtensions/NExtensions.png</iconUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>Simple assertion extensions to aid in testing, stuff that should have been in the BCL but aren't.</description>
+		<summary>Simple assertion extensions to aid in testing, stuff that should have been in the BCL but aren't.</summary>
+		<copyright>Copyright 2014</copyright>
+	</metadata>
 </package>
